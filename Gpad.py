@@ -469,3 +469,5 @@ main_application.bind("<Control-z>",save_as_file)
 main_application.bind("<Control-q>",exit_func)
 main_application.bind("<Control-f>",find_func)
 main_application.mainloop()
+
+# ----------- ended by gurucharan ------------------------------------------------------------------
