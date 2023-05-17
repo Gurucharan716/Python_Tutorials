@@ -14,3 +14,5 @@ striped_right_text = name.rstrip()+".............."
 print(striped_text)
 print(striped_left_text)
 print(striped_right_text)
+
+# this is gurucharan ---------
