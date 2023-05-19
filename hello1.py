@@ -56,10 +56,65 @@
 
 # name= "guru"
 # name = name + "charan"
-# print(name)
+# print(name)                                                 -----> Day 18/05/2023 progress 
 
+# IF ELES STATEMETS
 
+# age = 17
 
+# if age >=18:
+#     print("Your are eligible")
+# else:
+#     print("you are not eligible")
+
+# pass statement
+
+# x = 18 
+
+# if x ==18:
+#     pass
+
+# nested if else statement
+
+# win_num = 60
+# guess_number = int(input("enter a number for guess: "))
+
+# if guess_number==win_num:
+#     print("you win the game!...")
+# else:
+#     if guess_number>win_num:
+#         print("number is too high...")
+#     else:
+#         print("number is loo low.....")
+
+# ---------------------------------------------------------------
+# import random
+# win_num = random.randint(0,10)
+# guess_number = int(input("enter a number for guess: "))
+
+# if guess_number==win_num:
+#     print("you win the game!...")
+# else:
+#     if guess_number>win_num:
+#         print("number is too high...")
+#     else:
+#         print("number is loo low.....")
+
+# print(f"answer is {win_num}")
+# ---------------------------------------------------------------
+
+# name = "gurucharan"
+# age = 21
+
+# if name[0]=="g" and age==21:
+#     print("name and age is correct....")
+# else:
+#     print("name and age is not correct...")
+
+# if name[0]=="g" or age==21:
+#     print("name and age is correct....")
+# else:
+#     print("name and age is not correct...")                       --------> Day 19/05/2023 progress
 
 
 
