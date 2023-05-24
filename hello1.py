@@ -117,4 +117,27 @@
 #     print("name and age is not correct...")                       --------> Day 19/05/2023 progress
 
 
+# REVISION
+
+# name = input("enter your name: ")
+# age = int(input("enter your age: "))
+
+# if (name[0]=="G" or name[0]=="g") and age>=18:
+#     print(f"{name} is eligible because he is {age}")
+# else:
+#     print(f"{name} is not eligible because either his name not start with \"G\" or \"g\" nor his is age is not above 18") 
+
+
+# age = int(input("enter child age: "))
+
+# if age<=0:
+#     print("invalid age input please input correct again....")
+# elif 0<age<=3:
+#     print("ticket is free")
+# elif 3<age<=10:
+#     print("ticket price is 150 rs")
+# elif 10<age<=60:
+#     print("ticket price is 250")
+# else:
+#     print("ticket price is 200")                                     -----> Day 24/05/2023 progress
 
