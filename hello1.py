@@ -141,3 +141,55 @@
 # else:
 #     print("ticket price is 200")                                     -----> Day 24/05/2023 progress
 
+
+# IN in if statement
+# name = "gurucharan"
+
+# if "u" in name:
+#     print("present")
+# else:
+#     print("not present")
+
+
+# CHECK EMPTY
+# name = "gurucharan"
+
+# if name:
+#     print("not empty")
+# else:
+#     print("empty")
+
+# name = input("Enter your name: ")
+
+# if name:
+#     print(f"Hello {name} .....")
+# else:
+#     print("please fill the input.....")
+
+# While loop 
+# i=1
+
+# while i<=10:
+#     print(f"hello world {i}")
+#     i = i +1
+
+# i = 1 
+# total = 0
+
+# while i<=10:
+#     total = total + i
+#     i = i + 1
+
+# print(total)
+
+# REVISION
+
+# num = int(input("Enter a number to sum: "))
+
+# total = 0
+# i = 1
+
+# while i<=num:
+#     total = total + i
+#     i = i + 1
+# print(total)                                                        -----> Day 26/05/2023 progress
